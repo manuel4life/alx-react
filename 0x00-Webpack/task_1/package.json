@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": { 
-    "build": "webpack --config webpack.config.js"
-  },
+  "scripts": {
+  "build": "webpack --config webpack.config.js"
+},
+
   "keywords": [],
   "author": "",
   "license": "ISC",
